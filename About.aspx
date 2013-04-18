@@ -7,6 +7,7 @@
     <h2>
         About
     </h2>
+    <p>hello world</p>
     <p>
         Put content here.
     </p>
