@@ -138,7 +138,7 @@
  
 </form>--%>
 
-<form id="form1" action="Default.aspx.cs">
+<%--<form id="form1" action="Default.aspx.cs">
  
 <div class="demo">
  
@@ -151,7 +151,7 @@
 </div>
 </div>
  
-</form>
+</form>--%>
 
 <div class="content">
         <input id="txtSearch" onkeyup="search()" type="text" />
