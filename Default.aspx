@@ -138,6 +138,21 @@
  
 </form>--%>
 
+<form id="form1" action="Default.aspx.cs">
+ 
+<div class="demo">
+ 
+<div class="ui-widget">
+ 
+<label for="tbAuto">Enter FullName: </label>
+ 
+<input type="text" id="Text1" class="autosuggest" />
+ 
+</div>
+</div>
+ 
+</form>
+
 <div class="content">
         <input id="txtSearch" onkeyup="search()" type="text" />
 <div class="divResult">
